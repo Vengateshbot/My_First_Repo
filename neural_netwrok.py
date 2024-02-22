@@ -55,5 +55,5 @@ for epoch in range(epochs):
 # Test the network with new inputs
 test_inputs = np.array([[0.8, 0.9], [0.8, 0.2]])
 predictions = neural_network(test_inputs)
-print("\nPredictions:")
+print("\nPredictionsss:")
 print(predictions)
